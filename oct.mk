@@ -12,6 +12,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT="samsung/d2uc/d2att:4.1.2/JZO54K/I747UCDMG2:user/release-keys" \
     PRIVATE_BUILD_DESC="d2uc-user 4.1.2 JZO54K I747UCDMG2 release-keys"
 
-PRODUCT_NAME := cm_d2att
+PRODUCT_NAME := oct_d2att
 PRODUCT_DEVICE := d2att
 
