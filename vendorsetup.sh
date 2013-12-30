@@ -1,2 +1,2 @@
-add_lunch_combo cm_d2att-eng
-
+add_lunch_combo full_d2att-userdebug &&
+$(mkdir -p out/target/product/d2att/obj/KERNEL_OBJ/usr)
